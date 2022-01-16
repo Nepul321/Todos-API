@@ -1,0 +1,26 @@
+pyvenv.cfg
+Scripts/
+Lib/
+Include/
+.env
+reactjs/node_modules/
+
+reactjs/.pnp
+reactjs/.pnp.js
+
+# testing
+reactjs/coverage
+
+# production
+reactjs/build
+
+# misc
+reactjs/.DS_Store
+reactjs/.env.local
+reactjs/.env.development.local
+reactjs/.env.test.local
+reactjs/.env.production.local
+
+reactjs/npm-debug.log*
+reactjs/yarn-debug.log*
+reactjs/yarn-error.log*
