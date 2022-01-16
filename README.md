@@ -1,7 +1,6 @@
-# Task tracker FastAPI
+# Todos API
 
-A basic task tracker using the FARM stack.
+A basic todos api using the FARM stack.
 
  - FastApi
- - React JS
  - MongoDB
